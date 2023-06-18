@@ -4,7 +4,7 @@ This Repository on *Laundry Management System* is specifically designed for the 
 
 # Contributors
 
-- *Zeal Shah* `zeal.shah@iitgn.ac.in`
+- *Zeal Shah* `zeal.shah@iitgn.ac.in` , `zeal532003@gmail.com`
 - *Simran* `simran.saini@iitgn.ac.in`
 - *Argha Sardar* `sardarargha@iitgn.ac.in`
 - *Denish Trivedi* `denishtrivedi@iitgn.ac.in`
